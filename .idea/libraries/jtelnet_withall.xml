@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jtelnet-withall">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jtelnet-withall.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/jtelnet-withall.jar!/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/jtelnet-withall.jar!/" />
+    </SOURCES>
+  </library>
+</component>
